@@ -12,3 +12,5 @@ https://github.com/Ericwyn/Auto.js/releases
 3 需要给auto.js开启无障碍服务
 
 4 在悬浮窗下无法开启，但可以在悬浮窗下关闭脚本。
+
+5 先在auto.js上运行脚本再选择恢复模式,然后点击地图上的土之神殿后开始执行。
