@@ -11,4 +11,4 @@ https://github.com/Ericwyn/Auto.js/releases
 
 3 需要给auto.js开启无障碍服务
 
-4 在悬浮窗下无法开启，但可以在悬浮窗下关闭监本。
+4 在悬浮窗下无法开启，但可以在悬浮窗下关闭脚本。
