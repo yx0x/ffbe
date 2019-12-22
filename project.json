@@ -1,0 +1,16 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "B2066733-8",
+    "build_number": 8,
+    "build_time": 1576986171107
+  },
+  "useFeatures": [],
+  "icon": "res/logo.png",
+  "main": "main.js",
+  "name": "ffbe",
+  "packageName": "org.xdew.ffbe",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "1.0.0"
+}
